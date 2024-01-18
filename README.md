@@ -1,7 +1,33 @@
-### Hi there 👋
+<div>
+  <h2>👋 Hi, I'm @Shine!</h2>
+  <ul>
+  ⚡ Wanna be a goooood programmer</br>
+  🌱 Currently a student of Seneca College taking Computer Programming courses<br>
+  👯 Looking for Co-op as I'm in Co-op term at this moment<br>    
+  </ul>
+</div>
+<div>
+  <h2>My Stacks</h2>
+  
+  <img src="https://img.shields.io/badge/cplusplus-00599c?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoftoffice-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+</div>
+
 
 <!--
-**DevShineLee/DevShineLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vanthalos/vanthalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
