@@ -1,5 +1,5 @@
 <div>
-  <h2>Hi, I'm @Shine! 👋 </h2>
+  <h2>Hi, I'm Shine! 👋 </h2>
   <ul>
   ⚡ Wanna be a goooood programmer</br>
   🌱 Currently a student of Seneca College taking Computer Programming courses<br>
