@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/cplusplus-00599c?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/php-5C2D91?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/shellscript-21B352?style=for-the-badge&logo=shell&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
