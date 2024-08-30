@@ -2,8 +2,8 @@
   <h2>Hi, I'm Shine! 👋 </h2>
   <ul>
   ⚡ Wanna be a goooood programmer</br>
-  🌱 Currently a student of Seneca College taking Computer Programming courses<br>
-  👯 Looking for Co-op as I'm in Co-op term at this moment<br>    
+  🌱 Taking one last couse to graduate as CPP in Seneca College<br>
+  👯 Currently work as Full-Stack Software Developer at TECHCOM inc.<br>    
   </ul>
 </div>
 <div>
